@@ -1,0 +1,2 @@
+# oneDimensionalArrays
+Одномерные массивы
